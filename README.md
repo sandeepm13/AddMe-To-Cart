@@ -84,14 +84,3 @@ Note: `.env` is already in `.gitignore` to avoid leaking secrets.
 ## Styling
 
 The UI uses Tailwind CSS 4. Utility classes are applied directly in components. You can extend styles in `index.css` or via Tailwind config if needed.
-
-## Contributing
-
-1. Create a new branch: `git checkout -b feature/your-feature`
-2. Commit your changes: `git commit -m "Describe your change"`
-3. Push the branch: `git push -u origin feature/your-feature`
-4. Open a Pull Request
-
-## License
-
-Add your license of choice here (e.g., MIT). If not specified, all rights reserved.
