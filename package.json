@@ -1,4 +1,4 @@
-﻿{
+{
     "name":  "client",
     "private":  true,
     "version":  "0.0.0",
@@ -29,6 +29,6 @@
                             "vite":  "^7.2.4"
                         },
     "engines":  {
-                    "node":  "\u003e=18"
+                    "node":  ">=18"
                 }
 }
